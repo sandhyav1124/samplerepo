@@ -4,6 +4,7 @@
 add() {
     echo "Result: $(($1 + $2))"
     #printf "Result: %d\n" $(($1 + $2))
+    Result=1+2
 }
 subtract() {
     echo "Result: $(($1 - $2))"
