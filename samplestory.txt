@@ -1,0 +1,3 @@
+    this is first line of story.
+
+    this is a new story
